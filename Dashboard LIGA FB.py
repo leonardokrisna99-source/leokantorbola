@@ -25,7 +25,8 @@ name_map = {
     "Mathew": "ccc",
     "Dey": "Kill.yahuud",
     "Kom": "Mummy's",
-    "Prasalda": "Easywin"
+    "Prasalda": "Easywin",
+    "Mas Aris": "Aries"
 }
 
 teams = list(name_map.keys())
